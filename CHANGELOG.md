@@ -17,6 +17,7 @@ No new features in this release, but we now support python 3.11 and 3.12
 
 * Add support for python 3.11 and 3.12
 
+
 # 2.1.0
 
 This release moves some code around and introduces the new keyword argument `as_json: bool` that, if `True`, dumps the soup to `json string` right from the function.
