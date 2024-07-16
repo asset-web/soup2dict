@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "soup2dict"
-version = "2.1.0"
+version = "2.2.0"
 description = "Turns your beautifulsoup4 soup into python dictionary or json"
 authors = ["Thomas Borgen <thomas@borgenit.no>"]
 
@@ -29,7 +29,7 @@ classifiers = [
 ]
 
 [tool.poetry.dependencies]
-python = "^3.7"
+python = "^3.8"
 classes = "^0.4.0"
 beautifulsoup4 = "^4.9.3"
 

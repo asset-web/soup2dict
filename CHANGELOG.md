@@ -13,9 +13,14 @@
 
 No new features in this release, but we now support python 3.11 and 3.12
 
+
 ### Features
 
 * Add support for python 3.11 and 3.12
+
+### Breaking
+
+* soup2dict drops python 3.7 support
 
 
 # 2.1.0
